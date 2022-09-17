@@ -1,0 +1,20 @@
+{
+  "main": "index.html",
+  "logo": "logo.png",
+  "preload": "index.js",
+  "features": [
+    {
+      "code": "ii",
+      "explain": "iiiiiiiiiiiii",
+      "cmds": ["ii", "iii"]
+    },{
+      "code": "nh",
+      "explain": "你好",
+      "cmds": ["你好"]
+    }
+  ],
+  "platform": ["win32"],
+  "development": {
+    "main": "http://localhost:8081"
+  }
+}
